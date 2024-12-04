@@ -51,7 +51,7 @@
         <div class='match-info'>
             <div class='team__home'>
                 <img alt='Team Home' class='team__logo' src='https://static.flashscore.com/res/image/data/GCLLkTzB-ImKwLTtA.png'/>
-                <span class='team__name'>Chelsea</span>
+                <span class='team__name'>Real Madrid</span>
             </div>
             <div class='match-time'>
                 <div class='match-datetime' data-target-date='2024-12-04'>
