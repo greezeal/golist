@@ -17,7 +17,7 @@
             <div class='match-time'>
                 <div class='match-datetime' data-target-date='2024-12-04'>
                     <!-- Tanggal akan diperbarui oleh script -->
-                    30 November 2024
+                    04 Desember 2024
                 </div>
                 <div class='match-hour' data-target-time='15:00'>
                     <!-- Jam akan diperbarui oleh script -->
