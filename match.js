@@ -21,7 +21,7 @@
                 </div>
                 <div class='match-hour' data-target-time='15:00'>
                     <!-- Jam akan diperbarui oleh script -->
-                    10:00
+                    15:00
                 </div>
                 <div class='countdown'>
                     <!-- Countdown akan diperbarui oleh script -->
