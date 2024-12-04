@@ -19,7 +19,7 @@
                     <!-- Tanggal akan diperbarui oleh script -->
                     30 November 2024
                 </div>
-                <div class='match-hour' data-target-time='10:00'>
+                <div class='match-hour' data-target-time='15:00'>
                     <!-- Jam akan diperbarui oleh script -->
                     10:00
                 </div>
